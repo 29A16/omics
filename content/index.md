@@ -18,5 +18,4 @@ The unavoidable mistakes you will find on the notes are made in good faith, I am
 
 > *That's it, have fun exploring!*
 
-
-https://29a16.github.io/Quartz_Notes/
+https://29a16.github.io/omics/
